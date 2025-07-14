@@ -1,4 +1,4 @@
-# Earthquake Data Warehouse Project (2020-2025)
+# Earthquake Data Warehouse Project
 
 ## Overview
 
