@@ -241,17 +241,16 @@ Based on AI analysis, key visualizations include:
 ### Temporal Analysis
 - Time series charts for trend analysis
 - Calendar heat maps for seasonal patterns
-- Sparklines for quick trend identification
+
 
 ### Statistical Distributions
 - Histograms for magnitude distributions
-- Box plots for depth analysis
 - Scatter plots for correlation analysis
 
 ## 🛠️ Technical Specifications
 
 ### Data Volume
-- **Records**: 400,000+ earthquake events (2020-2025)
+- **Records**: 300,000+ earthquake events (2020-2025)
 - **Geographic Coverage**: All US states and territories
 - **Temporal Granularity**: Second-level precision
 - **Spatial Accuracy**: GPS-coordinate precision
@@ -333,18 +332,13 @@ GROUP BY l.region
 ORDER BY total_earthquakes DESC;
 ```
 
-## 📞 Support & Contribution
+## 📞 Support
 
 ### Getting Help
 - Review the code documentation and comments
 - Check the SQL schema designs for data structure
 - Analyze sample outputs for expected formats
 
-### Contributing
-- Follow standard Python PEP 8 style guidelines
-- Include comprehensive error handling
-- Add unit tests for new functionality
-- Update documentation for any changes
 
 ---
 
